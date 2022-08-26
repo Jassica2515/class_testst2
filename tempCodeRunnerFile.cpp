@@ -1,0 +1,1 @@
+auto it=hash.begin();it!=hash.end();it++
